@@ -30,7 +30,7 @@
   );
   --bg-gradient-jet: linear-gradient(
     to bottom right,  
-    hsla(0, 0%, 38%, 0.644) 100%, 
+    hsla(0, 0%, 50%, 0.644) 100%, 
     hsla(0, 0%, 100%, 0.892) 0%
   );
   --bg-gradient-yellow-1: linear-gradient(
@@ -50,8 +50,8 @@
   );
   --text-gradient-yellow: linear-gradient(
     to right, 
-    hsl(0, 0%, 51%), 
-    hsl(221, 100%, 13%)
+    hsl(218, 80%, 52%), 
+    hsl(221, 78%, 11%)
   );
 
   /* solid */
@@ -59,8 +59,8 @@
   --jet: hsl(0, 0%, 100%);
   --onyx: hsla(0, 0%, 100%, 0.714);
   --eerie-black-1: hsl(0, 0%, 24%);
-  --eerie-black-2: hsl(0, 1%, 73%);
-  --smoky-black: hsl(0, 0%, 58%);
+  --eerie-black-2: hsl(0, 0%, 73%);
+  --smoky-black: hsl(0, 0%, 46%);
   --white-1: hsl(0, 0%, 0%);
   --white-2: hsl(0, 0%, 0%);
   --orange-yellow-crayola: hsl(0, 0%, 99%);
