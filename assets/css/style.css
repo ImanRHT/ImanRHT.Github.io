@@ -26,7 +26,7 @@
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
     hsl(0, 0%, 100%) 20%, 
-    hsl(0, 0%, 100%) 97%
+    hsla(0, 0%, 0%, 0.644) 97%
 
   );
   --bg-gradient-yellow-1: linear-gradient(
@@ -96,7 +96,7 @@
   --shadow-2: 0 16px 30px hsl(0, 0%, 100%);
   --shadow-3: 0 16px 40px hsl(0, 0%, 100%);
   --shadow-4: 0 25px 50px hsl(0, 0%, 100%);
-  --shadow-5: 0 24px 80px hsl(0, 0%, 100%);
+  --shadow-5: 0 24px 80px hsl(0, 0%, 0%);
 
   /**
    * transition
