@@ -56,7 +56,7 @@
   --onyx: hsla(0, 0%, 100%, 0.714);
   --eerie-black-1: hsl(0, 0%, 24%);
   --eerie-black-2: hsl(0, 0%, 73%);
-  --smoky-black: hsl(0, 0%, 46%);
+  --smoky-black: hsl(0, 0%, 60%);
   --white-1: hsl(0, 0%, 0%);
   --white-2: hsl(0, 0%, 0%);
   --orange-yellow-crayola: hsl(0, 0%, 99%);
@@ -92,11 +92,11 @@
    * shadow
    */
   
-  --shadow-1: -4px 8px 24px hsl(0, 0%, 100%);
-  --shadow-2: 0 16px 30px hsl(0, 0%, 100%);
-  --shadow-3: 0 16px 40px hsl(0, 0%, 100%);
-  --shadow-4: 0 25px 50px hsl(0, 0%, 100%);
-  --shadow-5: 0 24px 80px hsl(0, 0%, 0%);
+  --shadow-1: -4px 8px 24px hsl(0, 0%, 0%);
+  --shadow-2: 0 16px 30px hsl(0, 0%, 0%);
+  --shadow-3: 0 16px 40px hsl(0, 0%, 0%);
+  --shadow-4: 0 25px 50px hsl(0, 0%, 0%);
+  --shadow-5: 0 24px 80px hsla(0, 0%, 0%, 0.564);
 
   /**
    * transition
