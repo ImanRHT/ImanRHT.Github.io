@@ -25,8 +25,8 @@
 
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
-    hsl(0, 0%, 51%) 50%, 
-    hsl(0, 0%, 100%) 100%
+    hsl(0, 0%, 100%) 50%, 
+    hsl(0, 0%, 0%) 100%
 
   );
   --bg-gradient-yellow-1: linear-gradient(
