@@ -1419,14 +1419,14 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .testimonials-avatar-box {
-    transform: translate(30px, -30px);
+    transform: translate(20px, 20px);
     border-radius: 20px;
   }
 
-  .testimonials-avatar-box img { width: 80px; }
+  .testimonials-avatar-box img { width: 0px; }
 
   .testimonials-item-title {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     margin-left: 95px;
   }
 
@@ -1455,7 +1455,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .modal-avatar-box {
-    border-radius: 18px;
+    border-radius: 50px;
     margin-bottom: 0;
   }
 
@@ -1587,7 +1587,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     max-width: 680px;
   }
 
-  .modal-avatar-box img { width: 80px; }
+  .modal-avatar-box img { width: 70px; }
 
 
 
