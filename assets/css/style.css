@@ -564,7 +564,7 @@ main {
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  gap: 15px;
+  gap: 30px;
   margin: 0 -15px;
   padding: 25px 15px;
   padding-bottom: 35px;
@@ -589,7 +589,7 @@ main {
   box-shadow: var(--shadow-1);
 }
 
-.testimonials-item-title { margin-bottom: 7px; }
+.testimonials-item-title { margin-bottom: 20px; }
 
 .testimonials-text {
   color: var(--light-gray);
@@ -1408,7 +1408,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .testimonials-list {
     gap: 30px;
-    margin: 0 -30px;
+    margin: 30 -30px;
     padding: 30px;
     padding-bottom: 35px;
   }
