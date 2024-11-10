@@ -1111,7 +1111,30 @@ main {
 }
 
 
+  <style>
+    /* Fullscreen background for particles.js */
+    #particles-js {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1; /* Make sure particles are deeply in the background */
+      pointer-events: none; /* Ensure particles don't interfere */
+    }
 
+    /* Basic page styling to ensure readability */
+    body, html {
+      margin: 0;
+      padding: 0;
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%; /* Changed from height: 100% to min-height: 100% */
+      overflow: auto;
+    }
+  </style>
 
 
 /*-----------------------------------*\
